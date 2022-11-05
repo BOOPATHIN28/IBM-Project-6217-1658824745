@@ -39,3 +39,8 @@
 ### > Application Building
 Create an HTML file
 Build Python Code
+
+## Project Structure
+
+Create a Project folder which contains files as shown below
+![download](https://user-images.githubusercontent.com/113086788/200133644-df2f7f61-46c2-4ffc-985d-0d12593c32bd.png)
