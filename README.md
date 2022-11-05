@@ -24,21 +24,35 @@
        Collect the dataset or Create the dataset
 ###    > Data Preprocessing.
 1.Import the ImageDataGenerator library
+
 2.Configure ImageDataGenerator class
+
 3.Apply ImageDataGenerator functionality to Trainset and Testset
+
 ###   > Model Building
+
 1.Import the model building Libraries
+
 2.Initializing the model
+
 3.Adding Input Layer
+
 4.Adding Hidden Layer
+
 5.Adding Output Layer
+
 6.Configure the Learning Process
+
 7.Training and testing the model
+
 8.Optimize the Model
+
 9.Save the Model
+
 ### > Application Building
-Create an HTML file
-Build Python Code
+1.Create an HTML file
+
+2.Build Python Code
 
 ## Project Structure
 
