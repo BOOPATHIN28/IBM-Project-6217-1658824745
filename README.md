@@ -50,3 +50,16 @@ Create a Project folder which contains files as shown below
 
 
 ![download](https://user-images.githubusercontent.com/113086788/200133644-df2f7f61-46c2-4ffc-985d-0d12593c32bd.png)
+
+> We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
+> we need the model which is saved and the saved model in this content is ECG.h5
+> The static folder will contain js and CSS files.
+> Whenever we upload an image to predict, those images are saved in the uploads folder.
+
+## Prerequisites
+###  software  and packages 
+### 1.Anaconda Navigator
+### > Tensor flow:
+### > Keras
+### > Flask
+
