@@ -15,4 +15,27 @@
          * Work with Keras capabilities
          * Work with image processing techniques
          * know how to build a web application using the Flask framework.
-         
+##                                    Project Flow:
+         >  User interacts with User interface to upload image
+         >  Uploaded image is analyzed by the model which is integrated
+         >  Once model analyses the uploaded image, the prediction is showcased on the UI
+###          To accomplish this, we have to complete all the activities and tasks listed below
+###        >        Data Collection.
+       Collect the dataset or Create the dataset
+###    > Data Preprocessing.
+1.Import the ImageDataGenerator library
+2.Configure ImageDataGenerator class
+3.Apply ImageDataGenerator functionality to Trainset and Testset
+###   > Model Building
+1.Import the model building Libraries
+2.Initializing the model
+3.Adding Input Layer
+4.Adding Hidden Layer
+5.Adding Output Layer
+6.Configure the Learning Process
+7.Training and testing the model
+8.Optimize the Model
+9.Save the Model
+### > Application Building
+Create an HTML file
+Build Python Code
