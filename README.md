@@ -10,18 +10,25 @@
 
 ##                                      Project Objectives:
          - Know fundamental concepts and techniques of the Artificial Neural Network and Convolution Neural Networks.
+         
          - Gain a broad understanding of image data.
+         
          - Work with Sequential type of modeling
+         
          - Work with Keras capabilities
+         
          - Work with image processing techniques
+         
          - know how to build a web application using the Flask framework.
 ##                                    Project Flow:
          -  User interacts with User interface to upload image
+         
          -  Uploaded image is analyzed by the model which is integrated
+         
          -  Once model analyses the uploaded image, the prediction is showcased on the UI
 ###          To accomplish this, we have to complete all the activities and tasks listed below
 ###                Data Collection.
-       Collect the dataset or Create the dataset
+     -  Collect the dataset or Create the dataset
 ###     Data Preprocessing.
 1.Import the ImageDataGenerator library
 
