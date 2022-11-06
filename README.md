@@ -8,7 +8,7 @@
 ###                     3.Naveen
 
 
-##                                      Project Objectives:
+##                                      Project Objectives✨
          - Know fundamental concepts and techniques of the Artificial Neural Network and Convolution Neural Networks.
          
          - Gain a broad understanding of image data.
@@ -27,16 +27,16 @@
          
          -  Once model analyses the uploaded image, the prediction is showcased on the UI
 ###          To accomplish this, we have to complete all the activities and tasks listed below
-###                Data Collection.
-     -  Collect the dataset or Create the dataset
-###     Data Preprocessing.
+###                Data Collection:
+       Collect the dataset or Create the dataset
+###     Data Preprocessing:
 1.Import the ImageDataGenerator library
 
 2.Configure ImageDataGenerator class
 
 3.Apply ImageDataGenerator functionality to Trainset and Testset
 
-###    Model Building
+###    Model Building:
 
 1.Import the model building Libraries
 
@@ -56,7 +56,7 @@
 
 9.Save the Model
 
-###  Application Building
+###  Application Building:
 1.Create an HTML file
 
 2.Build Python Code
@@ -77,11 +77,11 @@ Create a Project folder which contains files as shown below
 - The static folder will contain js and CSS files.
 - Whenever we upload an image to predict, those images are saved in the uploads folder.
 
-## Prerequisites
+## Prerequisites⭐
 ###  software  and packages 
 ### 1.Anaconda Navigator
  - Tensor flow:
  - Keras
  - Flask
 
- ⭐
+ 
