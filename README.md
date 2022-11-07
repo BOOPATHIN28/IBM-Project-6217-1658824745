@@ -84,4 +84,4 @@ Create a Project folder which contains files as shown below
  - Keras
  - Flask
 
- 
+### 2.Py charm community edition 
